@@ -1,0 +1,18 @@
+{
+  "name": "satya-web",
+  "version": "0.1.0",
+  "author": "satya krishna<satyakrishna13@gmail.com>",
+  "summary": "this is test module for webservices deployment",
+  "license": "Apache-2.0",
+  "source": "https://github.com/bsk32/puppet-web-wellsfargo",
+  "project_page": "https://github.com/bsk32/puppet-web-wellsfargo",
+  "issues_url": "https://github.com/bsk32/puppet-web-wellsfargo/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
